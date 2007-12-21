@@ -13,6 +13,7 @@ Group:		File tools
 License:	BSD
 URL:		http://www.daemonology.net/bsdiff/
 Source:		http://www.daemonology.net/bsdiff/%name-%version.tar.gz
+BuildRoot:	%{_tmppath}/%{name}-buildroot
 BuildRequires:	bzip2-devel
 
 %description
