@@ -1,7 +1,7 @@
 
 %define name	bsdiff
 %define version	4.3
-%define rel	3
+%define rel	4
 
 %define release %mkrel %rel
 
