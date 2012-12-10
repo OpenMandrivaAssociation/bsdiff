@@ -58,3 +58,30 @@ rm -rf %{buildroot}
 %{_mandir}/man1/bspatch.1*
 
 
+
+
+%changelog
+* Thu Dec 09 2010 Oden Eriksson <oeriksson@mandriva.com> 4.3-4mdv2011.0
++ Revision: 616866
+- the mass rebuild of 2010.0 packages
+
+* Wed Sep 02 2009 Thierry Vignaud <tv@mandriva.org> 4.3-3mdv2010.0
++ Revision: 424695
+- rebuild
+
+* Fri Dec 21 2007 Olivier Blin <oblin@mandriva.com> 4.3-2mdv2008.1
++ Revision: 136280
+- restore BuildRoot
+
+  + Thierry Vignaud <tv@mandriva.org>
+    - kill re-definition of %%buildroot on Pixel's request
+
+
+* Sat Mar 03 2007 Anssi Hannula <anssi@mandriva.org> 4.3-2mdv2007.0
++ Revision: 131659
+- rebuild
+- Import bsdiff
+
+* Sat Mar 18 2006 Anssi Hannula <anssi@mandriva.org> 4.3-1mdk
+- initial Mandriva release
+
