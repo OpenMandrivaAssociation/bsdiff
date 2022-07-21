@@ -7,8 +7,8 @@
 
 Summary:	Binary diff/patch utility
 Name:		%name
-Version:	%version
-Release:	%release
+Version:	4.3
+Release:	1%release
 Group:		File tools
 License:	BSD
 URL:		http://www.daemonology.net/bsdiff/
