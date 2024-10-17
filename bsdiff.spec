@@ -11,7 +11,7 @@ Version:	4.3
 Release:	1%release
 Group:		File tools
 License:	BSD
-URL:		http://www.daemonology.net/bsdiff/
+URL:		https://www.daemonology.net/bsdiff/
 Source:		http://www.daemonology.net/bsdiff/%name-%version.tar.gz
 BuildRoot:	%{_tmppath}/%{name}-buildroot
 BuildRequires:	bzip2-devel
